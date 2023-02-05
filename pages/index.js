@@ -36,6 +36,7 @@ export default function Home() {
                   className="bg-gradient-to-r from-cyan-500 text- to-teal-500 text-white px-4 py-2 border-none rounded-md ml-8"
                   href="https://drive.google.com/file/d/1nKFzygMRLJTMtUg_mWeslpuV2nsGEXWO/view?usp=share_link"
                   target="_blank"
+                  rel="noreferrer"
                 >
                   Resume
                 </a>
@@ -50,10 +51,10 @@ export default function Home() {
               Web Developer
             </h3>
             <div className="text-5xl flex justify-center gap-16 py-3 text-gray-600 dark:text-gray-400">
-              <a href="https://www.linkedin.com/in/sopheng-seng-0b70a2213/" target="_blank"><AiFillLinkedin /></a>
-              <a href="https://www.youtube.com/channel/UCXvvViJJyjPmzkIat6qT9lA" target="_blank"><AiFillYoutube /></a>
-              <a href="https://www.facebook.com/profile.php?id=100076240566121" target="_blank"><AiFillFacebook /></a>
-              <a href="https://github.com/Pheng1405" target="_blank"><AiFillGithub/></a>
+              <a href="https://www.linkedin.com/in/sopheng-seng-0b70a2213/" target="_blank" rel="noreferrer"><AiFillLinkedin /></a>
+              <a href="https://www.youtube.com/channel/UCXvvViJJyjPmzkIat6qT9lA" target="_blank" rel="noreferrer"><AiFillYoutube /></a>
+              <a href="https://www.facebook.com/profile.php?id=100076240566121" target="_blank" rel="noreferrer"><AiFillFacebook /></a>
+              <a href="https://github.com/Pheng1405" target="_blank" rel="noreferrer"><AiFillGithub/></a>
               
               
             </div>
